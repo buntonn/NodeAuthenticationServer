@@ -21,15 +21,15 @@ There are two ways for getting started with this repo, useing Git or downloading
 To get started with this repo using Git, clone it as follows.
 
 ```
-  > get clone 
-  > cd xxx
+  > get clone https://github.com/buntonn/NodeAuthenticationServer.git 
+  > cd NodeAuthenticationServer
   > npm install
   > npm dev
 ```
 
 #### Not Familiar with Git?
 If you are not familiar with Git and prefer to download the zip file, then do the following.
-Click [here]() then download the .zip file
+Click [here](https://github.com/buntonn/NodeAuthenticationServer/releases) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
   > npm install
